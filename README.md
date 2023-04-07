@@ -1,5 +1,9 @@
-# Hi there👋
-## I'm Dmitriy Moiseenko, 2nd year student at KFU ITIS
+<p align="center">
+  # Hi there👋
+  ## I'm Dmitriy Moiseenko, 2nd year student at KFU ITIS
+  ##
+</p>
+
 
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=lovecloudzzz&show_icons=true&theme=buefy&card_width=200&hide_title=true">
