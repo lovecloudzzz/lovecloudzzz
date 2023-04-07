@@ -1,6 +1,7 @@
-<h1 align="center">Hi there👋<h1/>
-<h2 align="center">I'm Dmitriy Moiseenko, 2nd year student at KFU ITIS<h2/>
-
+# Hi there👋
+## I'm Dmitriy Moiseenko
+  *19yo, 2nd year student at KFU ITIS
+  *dadas
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=lovecloudzzz&show_icons=true&theme=buefy&card_width=200&hide_title=true">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=lovecloudzzz&layout=compact">
