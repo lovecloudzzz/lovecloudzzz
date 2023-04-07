@@ -1,9 +1,5 @@
-<p text-align="center">
-  <h1>Hi there👋<h1/>
-  ## I'm Dmitriy Moiseenko, 2nd year student at KFU ITIS
-  ##
-</p>
-
+<h1 align="center">Hi there👋<h1/>
+<h2 align="center">I'm Dmitriy Moiseenko, 2nd year student at KFU ITIS<h2/>
 
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=lovecloudzzz&show_icons=true&theme=buefy&card_width=200&hide_title=true">
