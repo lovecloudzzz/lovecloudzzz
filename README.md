@@ -1,5 +1,5 @@
 <p align="center">
-  # Hi there👋
+  <h1>Hi there👋<h1/>
   ## I'm Dmitriy Moiseenko, 2nd year student at KFU ITIS
   ##
 </p>
