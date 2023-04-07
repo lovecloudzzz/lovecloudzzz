@@ -1,4 +1,4 @@
-<p align="center">
+<p text-align="center">
   <h1>Hi there👋<h1/>
   ## I'm Dmitriy Moiseenko, 2nd year student at KFU ITIS
   ##
