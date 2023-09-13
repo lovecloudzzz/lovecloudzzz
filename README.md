@@ -1,5 +1,5 @@
 # I'm Dmitriy Moiseenko <br/>
-## 19yo, 2nd year student at KFU ITIS
+## 20yo, 3nd year student at KFU ITIS
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=lovecloudzzz&show_icons=true&theme=buefy&card_width=200&hide_title=true">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=lovecloudzzz&layout=compact">
